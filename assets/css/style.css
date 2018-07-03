@@ -1,0 +1,214 @@
+body{
+    background-color: rgb(226, 200, 166);
+    color: #000305;
+    font-size: 87.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;    
+}
+
+
+.nameH1{
+    float:left;
+    padding: 5px 0 20px 0;
+    font-size:20px;
+    text-decoration: none;
+    color: whitesmoke;
+    position:absolute;
+    margin-left: 10px;
+    margin-top:15px;
+    width: 10%;
+    left: 25%;
+}
+
+
+.nav{
+    background-color: #666;
+    list-style: none;
+    padding: 10px 0 10px 0;
+    overflow: auto; 
+    width:100%; 
+    text-align: center;  
+    top: 0px;
+}
+
+
+.nav ul{
+    padding:0;
+    margin:0 0 0 150px;
+    list-style:none;
+    text-align: center;   
+}
+
+.nav li{
+    list-style: none;
+    margin: 0 auto;
+    float:right;
+    text-align: center; 
+}
+.nav li a{
+    padding: 20px 30px;
+    text-decoration: none;
+    color: whitesmoke;
+    display:block;
+    text-align: center;
+
+}   
+.Content{
+    width:960px;
+    text-align: center;
+    background-color:white;
+    position:relative;
+    left:25%;
+    right:25%;
+    text-align: left;
+    line-height: 1.7;
+    padding:20px;
+}
+
+.Content text{
+    float:left;
+    padding:20px;
+    margin:60px;
+  
+    
+}
+img{
+    width: 20%;
+    height: auto;
+    float:left;
+    padding:20px;
+
+}
+
+h2{
+    border-bottom: 5px solid light-blue; 
+}
+.aboutme{
+    float: top;
+    margin-left: 40px;
+    margin-top:30px;
+    color: lightblue;
+    font-size: 30px;
+    border-bottom: 2px solid rgb(92, 92, 100);
+    
+}
+label {
+    font-size: 100%;
+    width: 250px;
+    font-weight: bold;
+    margin: 2px 0;
+    text-align: left;
+}
+
+input {
+    width: 50%;
+    padding:5px;
+    margin: 2px 0;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+
+textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+.wrap{
+    background-color:white;
+    width:960px;
+    text-align: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    position:relative;
+    left:25%;
+    right:25%;
+
+}
+.contactForm{
+    color: lightblue;
+    text-align: center;
+}
+form .submit{
+    background: lightblue;
+    border-color: transparent;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 30px;
+    margin-top: 20px;
+}
+form .submit:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+
+footer{
+    width: 100%;
+    background-color: grey;
+    padding: 1px 0px;
+    color:white;
+    position: absolute;
+    bottom: 0px;
+  
+}
+.bar{
+    width:960px;
+    float:left;
+    text-align: center;
+    background-color:white;
+    position:relative;
+    left:25%;
+    right:25%;
+}
+.element1{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
+.element2{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
+.element3{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
+.element4{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
+.element5{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
+.element6{
+    float:left;
+    width: 400px;
+    height: 400px;
+    margin:0px;
+}
